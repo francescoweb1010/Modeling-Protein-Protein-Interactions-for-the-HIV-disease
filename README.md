@@ -1,4 +1,9 @@
 # Bioinformatics-Network-Medicine
 
+## Modeling PPIs for the HIV disease: computational insights and graph-based investigation methods
+
+### Francesco Russo, Iason Tsardanidis, Michele Cernigliaro
 
 This a project on Network Medicine on exploring of information sources, Data Analysis, Enrichment Analysis, Clustering Methods, Network theory and measures.
+
+The protein-protein interaction network of an organism is a model for the functions of genes and proteins. It allows to study the cellular behaviour and its reaction to physical, chemical and (more generally) environmental stimuli, as well as the exchange of signals. The aim of this work is to effectively map the PPIs associated to the HIV disease, in order to identify the seed genes, the proteins involved and, ultimately, the putative disease genes and modules, together with the related relevant properties. This will be done using a computational approach based on the application of graph-theory, clustering procedures and other algorithmic detection methods.
