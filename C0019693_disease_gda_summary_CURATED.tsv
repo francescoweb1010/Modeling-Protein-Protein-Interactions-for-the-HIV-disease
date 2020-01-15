@@ -1,0 +1,103 @@
+Disease	Disease_id	Gene	Gene_id	UniProt	Gene_Full_Name	Protein_Class	N_diseases_g	DSI_g	DPI_g	pLI	Score_gda	EL_gda	EI_gda	N_PMIDs	N_SNPs_gda	First_Ref	Last_Ref
+HIV Infections	C0019693	IFNG	3458	P01579	interferon gamma		167	0.323	0.897	0.47138	0.4	no reported evidence	1.0	1	0	1986.0	2018.0
+HIV Infections	C0019693	CD28	940	P10747	CD28 molecule		13	0.488	0.793	0.37386	0.4	no reported evidence	1.0	1	0	1996.0	2014.0
+HIV Infections	C0019693	HLA-B	3106	P01889;P03989;P10319;P18463;P18464;P18465;P30460;P30461;P30462;P30464;P30466;P30475;P30479;P30480;P30481;P30483;P30484;P30485;P30486;P30487;P30488;P30490;P30491;P30492;P30493;P30495;P30498;P30685;Q04826;Q29718;Q29836;Q29940;Q31610;Q31612;Q95365	major histocompatibility complex, class I, B		43	0.423	0.828	0.0001994	0.4	no reported evidence	1.0	1	0	1999.0	2018.0
+HIV Infections	C0019693	KIR3DL1	3811	P43629	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1	defense/immunity protein; enzyme modulator; receptor; signaling molecule	2	0.546	0.724	6.5923e-13	0.4	no reported evidence	0.9375	1	0	2006.0	2016.0
+HIV Infections	C0019693	HLA-C	3107	P04222;P10321;P30499;P30501;P30504;P30505;P30508;P30510;Q07000;Q29865;Q29960;Q29963;Q95604;Q9TNN7	major histocompatibility complex, class I, C		20	0.419	0.828	1.4774e-06	0.4	no reported evidence	0.9473684	0	1	1988.0	2015.0
+HIV Infections	C0019693	IL10	3586	P22301	interleukin 10		93	0.32	0.931	0.0065063	0.4	no reported evidence	0.969697	1	0	1992.0	2016.0
+HIV Infections	C0019693	IL2	3558	P60568	interleukin 2		77	0.373	0.931	0.49379	0.4	no reported evidence	0.9210526	1	0	1986.0	2014.0
+HIV Infections	C0019693	CCL2	6347	P13500	C-C motif chemokine ligand 2	signaling molecule	138	0.353	0.897	0.61778	0.4	no reported evidence	1.0	0	0	1998.0	2016.0
+HIV Infections	C0019693	CXCL12	6387	P48061	C-X-C motif chemokine ligand 12		18	0.421	0.724	0.12736	0.4	no reported evidence	0.9615385	0	0	1997.0	2016.0
+HIV Infections	C0019693	MBL2	4153	P11226	mannose binding lectin 2	receptor	9	0.415	0.828	0.014648	0.4	no reported evidence	1.0	1	0	1997.0	2016.0
+HIV Infections	C0019693	IL2RA	3559	P01589	interleukin 2 receptor subunit alpha	receptor	28	0.419	0.828	0.052225	0.38	no reported evidence	1.0	1	0	2002.0	2015.0
+HIV Infections	C0019693	CCL3	6348	P10147	C-C motif chemokine ligand 3	signaling molecule	26	0.522	0.828	0.36096	0.37	no reported evidence	0.8333333	0	0	2004.0	2016.0
+HIV Infections	C0019693	CCL3L1	6349	P16619	C-C motif chemokine ligand 3 like 1	signaling molecule	2	0.681	0.586	0.11994	0.37	no reported evidence	0.8571429	0	0	2007.0	2014.0
+HIV Infections	C0019693	CX3CR1	1524	P49238	C-X3-C motif chemokine receptor 1		6	0.496	0.828	0.056757	0.36	no reported evidence	0.833333333333333	0	0	2000.0	2015.0
+HIV Infections	C0019693	TRIM5	85363	Q9C035	tripartite motif containing 5		2	0.799	0.241	0.00026097	0.36	no reported evidence	1.0	1	0	2004.0	2015.0
+HIV Infections	C0019693	SLC11A1	6556	P49279	solute carrier family 11 member 1	transporter	38	0.537	0.793	3.4891e-19	0.35	no reported evidence	1.0	1	0	1999.0	2013.0
+HIV Infections	C0019693	APOA1	335	P02647	apolipoprotein A1		54	0.463	0.759	0.00054889	0.34	no reported evidence	1.0	1	0	2002.0	2010.0
+HIV Infections	C0019693	SERPINA1	5265	P01009	serpin family A member 1	enzyme modulator	61	0.453	0.793	4.2148e-08	0.34	no reported evidence	1.0	1	0	2003.0	2014.0
+HIV Infections	C0019693	SIRT1	23411	Q96EB6	sirtuin 1	hydrolase; nucleic acid binding	85	0.432	0.828	0.081958	0.33	no reported evidence	1.0	1	0	2008.0	2014.0
+HIV Infections	C0019693	CD209	30835	Q9NNX6	CD209 molecule	cell adhesion molecule; defense/immunity protein; receptor	6	0.652	0.517	2.9444e-12	0.33	no reported evidence	1.0	1	0	2004.0	2011.0
+HIV Infections	C0019693	HP	3240	P00738	haptoglobin	hydrolase; protease	61	0.461	0.793	7.4325e-05	0.33	no reported evidence	1.0	1	0	1998.0	2006.0
+HIV Infections	C0019693	CXCR1	3577	P25024	C-X-C motif chemokine receptor 1		3	0.555	0.69	4.1658e-07	0.33	no reported evidence	1.0	0	0	2000.0	2015.0
+HIV Infections	C0019693	HSPB1	3315	P04792	heat shock protein family B (small) member 1		48	0.468	0.69	1.7685e-06	0.32	no reported evidence	1.0	1	0	2003.0	2009.0
+HIV Infections	C0019693	CDC42	998	P60953	cell division cycle 42	enzyme modulator	17	0.511	0.828	0.80671	0.32	no reported evidence	1.0	1	0	2004.0	2005.0
+HIV Infections	C0019693	CCR3	1232	P51677	C-C motif chemokine receptor 3		15	0.57	0.759	0.00013654	0.32	no reported evidence	1.0	1	0	1999.0	2005.0
+HIV Infections	C0019693	TLR3	7098	O15455	toll like receptor 3	extracellular matrix protein; receptor	7	0.475	0.862	1.516e-07	0.32	no reported evidence	1.0	0	0	2010.0	2014.0
+HIV Infections	C0019693	ILF2	3608	Q12905	interleukin enhancer binding factor 2		4	0.743	0.276	0.99298	0.31	no reported evidence	1.0	1	0	2004.0	2016.0
+HIV Infections	C0019693	PPIB	5479	P23284	peptidylprolyl isomerase B		7	0.69	0.379	4.4288e-05	0.31	no reported evidence	0.0	1	0	2004.0	2016.0
+HIV Infections	C0019693	MDM2	4193	Q00987	MDM2 proto-oncogene	nucleic acid binding	24	0.396	0.759	0.99986	0.31	no reported evidence	1.0	1	0	2003.0	2014.0
+HIV Infections	C0019693	HSPD1	3329	P10809	heat shock protein family D (Hsp60) member 1		39	0.481	0.793	0.99184	0.31	no reported evidence	1.0	1	0	2004.0	2013.0
+HIV Infections	C0019693	PTCH1	5727	Q13635	patched 1		48	0.435	0.759	1.0	0.31	no reported evidence	1.0	1	0	2003.0	2015.0
+HIV Infections	C0019693	CDKN1A	1026	P38936	cyclin dependent kinase inhibitor 1A		30	0.415	0.724	0.0020695	0.31	no reported evidence	1.0	1	0	2003.0	2014.0
+HIV Infections	C0019693	YY1	7528	P25490	YY1 transcription factor	transcription factor	13	0.519	0.724	0.99457	0.31	no reported evidence	1.0	1	0	1993.0	2004.0
+HIV Infections	C0019693	FCER2	2208	P06734	Fc fragment of IgE receptor II	cell adhesion molecule; defense/immunity protein; receptor	5	0.598	0.621	9.7439e-11	0.31	no reported evidence	1.0	1	0	1997.0	2001.0
+HIV Infections	C0019693	IPO7	10527	O95373	importin 7	enzyme modulator; transporter	2	0.799	0.241	1.0	0.31	no reported evidence	1.0	1	0	2004.0	2007.0
+HIV Infections	C0019693	HSP90AA1	3320	P07900	heat shock protein 90 alpha family class A member 1	chaperone	14	0.453	0.828	0.8608	0.31	no reported evidence	1.0	1	0	2003.0	2014.0
+HIV Infections	C0019693	SFPQ	6421	P23246	splicing factor proline and glutamine rich	nucleic acid binding	9	0.656	0.414	0.99993	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	RAB11B	9230	Q15907	RAB11B, member RAS oncogene family		5	0.834	0.276	0.4474	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	SRSF1	6426	Q07955	serine and arginine rich splicing factor 1	nucleic acid binding	5	0.609	0.552	0.98191	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	CCT3	7203	P49368	chaperonin containing TCP1 subunit 3	chaperone	2	0.735	0.448	0.99998	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	SRSF9	8683	Q13242	serine and arginine rich splicing factor 9	nucleic acid binding	2	0.799	0.276	0.6521	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	EIF3B	8662	P55884	eukaryotic translation initiation factor 3 subunit B	nucleic acid binding	2	0.799	0.241	1.0	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	DNAJC7	7266	Q99615	DnaJ heat shock protein family (Hsp40) member C7		2	1.0	0.069	0.98798	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	SNRPD3	6634	P62318	small nuclear ribonucleoprotein D3 polypeptide	nucleic acid binding	10	0.857	0.138	0.86313	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	SRF	6722	P11831	serum response factor	transcription factor	7	0.598	0.69	0.97512	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	TAF9	6880	Q16594	TATA-box binding protein associated factor 9	nucleic acid binding; transcription factor	2	0.886	0.172	5.0035e-07	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	U2AF1	7307	P0DN76;Q01081	U2 small nuclear RNA auxiliary factor 1	nucleic acid binding	14	0.624	0.552	0.9913	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	BAG3	9531	O95817	BCL2 associated athanogene 3		14	0.558	0.69	0.55659	0.3	no reported evidence		1	0	2007.0	2007.0
+HIV Infections	C0019693	GRPEL1	80273	Q9HAV7	GrpE like 1, mitochondrial	chaperone	2	0.928	0.138	0.15154	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	ARAP3	64411	Q8WWN8	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 3		4	0.773	0.241	5.0405e-05	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSME4	23198	Q14997	proteasome activator subunit 4		2	1.0	0.069	1.0	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	CCT5	22948	P48643	chaperonin containing TCP1 subunit 5	chaperone	12	0.681	0.379	0.99944	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	RAB32	10981	Q13637	RAB32, member RAS oncogene family		5	0.762	0.414	0.00068082	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	COPS6	10980	Q7L5N1	COP9 signalosome subunit 6	hydrolase; protease	2	0.727	0.241	0.98653	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	SF3A3	10946	Q12874	splicing factor 3a subunit 3	nucleic acid binding	2	1.0	0.069	1.0	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	HSPH1	10808	Q92598	heat shock protein family H (Hsp110) member 1		2	0.696	0.483	0.99961	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PRPF8	10594	Q6P2Q9	pre-mRNA processing factor 8	nucleic acid binding	6	0.69	0.414	1.0	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	CLIC1	1192	O00299	chloride intracellular channel 1		12	0.681	0.31	0.00017504	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	EMG1	10436	Q92979	EMG1, N1-specific pseudouridine methyltransferase	nucleic acid binding	3	0.743	0.517	1.8254e-05	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	SIGMAR1	10280	Q99720	sigma non-opioid intracellular receptor 1		62	0.565	0.517	0.18029	0.3	no reported evidence		1	0	2006.0	2006.0
+HIV Infections	C0019693	NUTF2	10204	P61970	nuclear transport factor 2		2	0.857	0.241	0.90979	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSME3	10197	P61289	proteasome activator subunit 3		2	0.663	0.517	0.99643	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	ALYREF	10189	Q86V81	Aly/REF export factor	nucleic acid binding	2	0.785	0.414	0.9286	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSMD6	9861	Q15008	proteasome 26S subunit, non-ATPase 6		3	0.815	0.207	0.99549	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	CCT7	10574	Q99832	chaperonin containing TCP1 subunit 7	chaperone	6	0.799	0.241	0.9856	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	CCL11	6356	P51671	C-C motif chemokine ligand 11	signaling molecule	19	0.586	0.655	0.0098159	0.3	no reported evidence		0	0		
+HIV Infections	C0019693	LYN	4067	P07948	LYN proto-oncogene, Src family tyrosine kinase		2	0.659	0.345	0.99918	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	EIF6	3692	P56537	eukaryotic translation initiation factor 6	nucleic acid binding	6	0.713	0.414	0.24534	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	IL4R	3566	P24394	interleukin 4 receptor	receptor	9	0.512	0.793	0.00021949	0.3	no reported evidence		0	0		
+HIV Infections	C0019693	HSP90AB1	3326	P08238	heat shock protein 90 alpha family class B member 1	chaperone	4	0.663	0.552	0.99921	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	HSPA9	3313	P38646	heat shock protein family A (Hsp70) member 9		22	0.567	0.724	0.97927	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	HDGF	3068	P51858	heparin binding growth factor	signaling molecule; transcription factor	2	0.639	0.345	0.28194	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	GTF3A	2971	Q92664	general transcription factor IIIA	transcription factor	2	0.762	0.345	1.8554e-11	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	EIF4EBP1	1978	Q13541	eukaryotic translation initiation factor 4E binding protein 1	nucleic acid binding	12	0.529	0.793	0.21356	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	EIF4A1	1973	P60842	eukaryotic translation initiation factor 4A1		2	0.735	0.414	0.99986	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	GADD45A	1647	P24522	growth arrest and DNA damage inducible alpha		21	0.546	0.69	0.043372	0.3	no reported evidence		1	0	2003.0	2003.0
+HIV Infections	C0019693	BAX	581	Q07812	BCL2 associated X, apoptosis regulator	signaling molecule	50	0.45	0.862	0.30181	0.3	no reported evidence		1	0	2003.0	2003.0
+HIV Infections	C0019693	ARHGDIB	397	P52566	Rho GDP dissociation inhibitor beta	enzyme modulator; signaling molecule	4	0.701	0.31	0.00074044	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	ARHGDIA	396	P52565	Rho GDP dissociation inhibitor alpha	enzyme modulator; signaling molecule	9	0.672	0.552	0.026507	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	ARHGAP4	393	P98171	Rho GTPase activating protein 4	enzyme modulator	2	0.752	0.345	0.96664	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	BIRC3	330	Q13489	baculoviral IAP repeat containing 3	enzyme modulator	12	0.524	0.724	0.060335	0.3	no reported evidence		1	0	2003.0	2003.0
+HIV Infections	C0019693	BIRC2	329	Q13490	baculoviral IAP repeat containing 2	enzyme modulator	10	0.575	0.69	0.44641	0.3	no reported evidence		1	0	2003.0	2003.0
+HIV Infections	C0019693	ALB	213	P02768	albumin	transfer/carrier protein	118	0.412	0.828	0.60914	0.3	no reported evidence		1	0	2007.0	2007.0
+HIV Infections	C0019693	KPNB1	3837	Q14974	karyopherin subunit beta 1	transfer/carrier protein; transporter	2	0.799	0.172	1.0	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	MAZ	4150	P56270	MYC associated zinc finger protein		2	0.672	0.448	0.98776	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	RANBP1	5902	P43487	RAN binding protein 1	enzyme modulator	6	0.735	0.517	0.8335	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	RAN	5901	P62826	RAN, member RAS oncogene family	enzyme modulator	13	0.6	0.621	0.97412	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSME2	5721	Q9UL46	proteasome activator subunit 2		4	0.815	0.207	0.016833	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSME1	5720	Q06323	proteasome activator subunit 1		11	0.773	0.345	0.098477	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSMD13	5719	Q9UNM6	proteasome 26S subunit, non-ATPase 13	enzyme modulator	2	0.886	0.103	0.99887	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSMD8	5714	P48556	proteasome 26S subunit, non-ATPase 8	enzyme modulator	2	0.743	0.414	0.076474	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSMD3	5709	O43242	proteasome 26S subunit, non-ATPase 3	enzyme modulator	2	0.799	0.172	0.99993	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSMC5	5705	P62195	proteasome 26S subunit, ATPase 5	hydrolase	8	0.762	0.31	0.94471	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSMC3	5702	P17980	proteasome 26S subunit, ATPase 3	hydrolase	2	0.886	0.138	0.96055	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSMB10	5699	P40306	proteasome subunit beta 10	hydrolase; protease	3	0.762	0.31	1.1553e-06	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSMB4	5692	P28070	proteasome subunit beta 4	hydrolase; protease	4	0.834	0.172	0.0020389	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSMA6	5687	P60900	proteasome subunit alpha 6	hydrolase; protease	3	0.69	0.379	0.98792	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSMA5	5686	P28066	proteasome subunit alpha 5	hydrolase; protease	8	0.663	0.414	0.99466	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	PSMA4	5685	P25789	proteasome subunit alpha 4	hydrolase; protease	13	0.743	0.276	0.58942	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	ODC1	4953	P11926	ornithine decarboxylase 1	lyase	12	0.532	0.759	0.18534	0.3	no reported evidence		1	0	2003.0	2003.0
+HIV Infections	C0019693	NUP88	4927	Q99567	nucleoporin 88	transporter	2	0.752	0.207	9.9841e-08	0.3	no reported evidence		1	0	2004.0	2004.0
+HIV Infections	C0019693	ADRB2	154	P07550	adrenoceptor beta 2	receptor	53	0.479	0.793	0.58042	0.3	no reported evidence		1	0	2016.0	2016.0

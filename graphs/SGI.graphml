@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="IFNG"/>
+<node id="HLA-B"/>
+<node id="ADRB2"/>
+<node id="HLA-C"/>
+<node id="KIR3DL1"/>
+<node id="PTCH1"/>
+<node id="IL10"/>
+<node id="CCL2"/>
+<node id="CCR3"/>
+<node id="CXCL12"/>
+<node id="MBL2"/>
+<node id="IL2RA"/>
+<node id="CCL3"/>
+<node id="CCL3L1"/>
+<node id="TRIM5"/>
+<node id="PSMC5"/>
+<node id="APOA1"/>
+<node id="HP"/>
+<node id="SERPINA1"/>
+<node id="SIRT1"/>
+<node id="PSME3"/>
+<node id="HSP90AA1"/>
+<node id="MDM2"/>
+<node id="CD209"/>
+<node id="HSPB1"/>
+<node id="GRPEL1"/>
+<node id="BAG3"/>
+<node id="IPO7"/>
+<node id="ARHGDIA"/>
+<node id="SF3A3"/>
+<node id="HSPA9"/>
+<node id="PSMA6"/>
+<node id="CDC42"/>
+<node id="BIRC2"/>
+<node id="CCL11"/>
+<node id="TLR3"/>
+<node id="BIRC3"/>
+<node id="ILF2"/>
+<node id="EIF4A1"/>
+<node id="PPIB"/>
+<node id="PSMA4"/>
+<node id="EIF6"/>
+<node id="CDKN1A"/>
+<node id="RANBP1"/>
+<node id="YY1"/>
+<node id="EIF3B"/>
+<node id="SFPQ"/>
+<node id="PSMC3"/>
+<node id="GADD45A"/>
+<node id="HSPD1"/>
+<node id="BAX"/>
+<node id="CCT7"/>
+<node id="PRPF8"/>
+<node id="COPS6"/>
+<node id="KPNB1"/>
+<node id="RAN"/>
+<node id="LYN"/>
+<node id="DNAJC7"/>
+<node id="HSPH1"/>
+<node id="ALYREF"/>
+<node id="U2AF1"/>
+<node id="RAB11B"/>
+<node id="NUTF2"/>
+<node id="SRSF1"/>
+<node id="HDGF"/>
+<node id="SRSF9"/>
+<node id="CCT3"/>
+<node id="PSMA5"/>
+<node id="CCT5"/>
+<node id="SNRPD3"/>
+<node id="SRF"/>
+<node id="TAF9"/>
+<node id="PSMD8"/>
+<node id="PSME1"/>
+<node id="PSMB4"/>
+<node id="PSMD3"/>
+<node id="PSME2"/>
+<node id="PSME4"/>
+<node id="HSP90AB1"/>
+<node id="CLIC1"/>
+<node id="SIGMAR1"/>
+<node id="PSMD6"/>
+<node id="PSMD13"/>
+<node id="PSMB10"/>
+<node id="IL4R"/>
+<node id="ARHGAP4"/>
+<node id="ALB"/>
+<node id="NUP88"/>
+<node id="ODC1"/>
+<node id="IL2"/>
+<node id="ARHGDIB"/>
+<edge source="IFNG" target="IFNG"/>
+<edge source="HLA-B" target="HLA-B"/>
+<edge source="HLA-B" target="ADRB2"/>
+<edge source="HLA-B" target="HLA-C"/>
+<edge source="ADRB2" target="HLA-C"/>
+<edge source="ADRB2" target="MDM2"/>
+<edge source="ADRB2" target="HSPD1"/>
+<edge source="ADRB2" target="HSPA9"/>
+<edge source="ADRB2" target="EIF4A1"/>
+<edge source="ADRB2" target="ARHGDIA"/>
+<edge source="ADRB2" target="KPNB1"/>
+<edge source="ADRB2" target="RAN"/>
+<edge source="ADRB2" target="ADRB2"/>
+<edge source="HLA-C" target="HLA-C"/>
+<edge source="HLA-C" target="PTCH1"/>
+<edge source="KIR3DL1" target="KIR3DL1"/>
+<edge source="PTCH1" target="PTCH1"/>
+<edge source="IL10" target="IL10"/>
+<edge source="CCL2" target="CCR3"/>
+<edge source="CCL2" target="CCL2"/>
+<edge source="CCL2" target="CCL11"/>
+<edge source="CCR3" target="CCL3L1"/>
+<edge source="CCR3" target="CCL11"/>
+<edge source="CCR3" target="CCL3"/>
+<edge source="CXCL12" target="CXCL12"/>
+<edge source="MBL2" target="MBL2"/>
+<edge source="IL2RA" target="IL2RA"/>
+<edge source="IL2RA" target="IL2"/>
+<edge source="CCL3" target="CCL3"/>
+<edge source="TRIM5" target="PSMC5"/>
+<edge source="TRIM5" target="TRIM5"/>
+<edge source="PSMC5" target="MDM2"/>
+<edge source="PSMC5" target="CDKN1A"/>
+<edge source="PSMC5" target="BAG3"/>
+<edge source="PSMC5" target="PSME3"/>
+<edge source="PSMC5" target="PSMD6"/>
+<edge source="PSMC5" target="BAX"/>
+<edge source="PSMC5" target="PSME2"/>
+<edge source="PSMC5" target="PSME1"/>
+<edge source="PSMC5" target="PSMD13"/>
+<edge source="PSMC5" target="PSMD8"/>
+<edge source="PSMC5" target="PSMD3"/>
+<edge source="PSMC5" target="PSMA5"/>
+<edge source="PSMC5" target="PSMC5"/>
+<edge source="PSMC5" target="PSMA6"/>
+<edge source="PSMC5" target="PSMA4"/>
+<edge source="PSMC5" target="PSMC3"/>
+<edge source="PSMC5" target="PSMB4"/>
+<edge source="APOA1" target="HP"/>
+<edge source="APOA1" target="APOA1"/>
+<edge source="APOA1" target="ALB"/>
+<edge source="HP" target="ALB"/>
+<edge source="SERPINA1" target="SERPINA1"/>
+<edge source="SIRT1" target="SIRT1"/>
+<edge source="SIRT1" target="PSME3"/>
+<edge source="SIRT1" target="HSP90AA1"/>
+<edge source="SIRT1" target="MDM2"/>
+<edge source="SIRT1" target="HSPA9"/>
+<edge source="PSME3" target="MDM2"/>
+<edge source="PSME3" target="CDKN1A"/>
+<edge source="PSME3" target="BAG3"/>
+<edge source="PSME3" target="SF3A3"/>
+<edge source="PSME3" target="PSMA5"/>
+<edge source="PSME3" target="PSMB4"/>
+<edge source="PSME3" target="PSMD8"/>
+<edge source="PSME3" target="PSME3"/>
+<edge source="PSME3" target="PSMA6"/>
+<edge source="PSME3" target="PSMA4"/>
+<edge source="PSME3" target="HDGF"/>
+<edge source="HSP90AA1" target="HSPB1"/>
+<edge source="HSP90AA1" target="MDM2"/>
+<edge source="HSP90AA1" target="CDKN1A"/>
+<edge source="HSP90AA1" target="HSPA9"/>
+<edge source="HSP90AA1" target="COPS6"/>
+<edge source="HSP90AA1" target="LYN"/>
+<edge source="HSP90AA1" target="BAG3"/>
+<edge source="HSP90AA1" target="PRPF8"/>
+<edge source="HSP90AA1" target="HSP90AA1"/>
+<edge source="HSP90AA1" target="DNAJC7"/>
+<edge source="HSP90AA1" target="HSPH1"/>
+<edge source="HSP90AA1" target="HSPD1"/>
+<edge source="HSP90AA1" target="HSP90AB1"/>
+<edge source="MDM2" target="PPIB"/>
+<edge source="MDM2" target="CDKN1A"/>
+<edge source="MDM2" target="RANBP1"/>
+<edge source="MDM2" target="MDM2"/>
+<edge source="MDM2" target="YY1"/>
+<edge source="MDM2" target="EIF3B"/>
+<edge source="MDM2" target="IPO7"/>
+<edge source="MDM2" target="SFPQ"/>
+<edge source="MDM2" target="PSMC3"/>
+<edge source="MDM2" target="GADD45A"/>
+<edge source="MDM2" target="HSP90AB1"/>
+<edge source="MDM2" target="PSMA6"/>
+<edge source="CD209" target="CD209"/>
+<edge source="HSPB1" target="GRPEL1"/>
+<edge source="HSPB1" target="HSPB1"/>
+<edge source="HSPB1" target="BAG3"/>
+<edge source="HSPB1" target="IPO7"/>
+<edge source="HSPB1" target="ARHGDIA"/>
+<edge source="HSPB1" target="SF3A3"/>
+<edge source="HSPB1" target="HSPA9"/>
+<edge source="HSPB1" target="PSMA6"/>
+<edge source="HSPB1" target="HSP90AB1"/>
+<edge source="GRPEL1" target="HSPA9"/>
+<edge source="GRPEL1" target="GRPEL1"/>
+<edge source="GRPEL1" target="HSPH1"/>
+<edge source="BAG3" target="CCT7"/>
+<edge source="BAG3" target="BAX"/>
+<edge source="BAG3" target="PSMD8"/>
+<edge source="BAG3" target="PSMC3"/>
+<edge source="BAG3" target="BAG3"/>
+<edge source="BAG3" target="PSMA6"/>
+<edge source="BAG3" target="PSME1"/>
+<edge source="BAG3" target="PSMB4"/>
+<edge source="BAG3" target="PSMA5"/>
+<edge source="BAG3" target="PSMD3"/>
+<edge source="BAG3" target="PSME2"/>
+<edge source="IPO7" target="KPNB1"/>
+<edge source="IPO7" target="RAN"/>
+<edge source="IPO7" target="HSP90AB1"/>
+<edge source="ARHGDIA" target="CDC42"/>
+<edge source="ARHGDIA" target="ARHGDIA"/>
+<edge source="SF3A3" target="SRSF9"/>
+<edge source="SF3A3" target="SNRPD3"/>
+<edge source="HSPA9" target="HSPD1"/>
+<edge source="HSPA9" target="CDKN1A"/>
+<edge source="HSPA9" target="COPS6"/>
+<edge source="HSPA9" target="HSPH1"/>
+<edge source="HSPA9" target="ALYREF"/>
+<edge source="HSPA9" target="EIF6"/>
+<edge source="PSMA6" target="CCT3"/>
+<edge source="PSMA6" target="CCT5"/>
+<edge source="PSMA6" target="PSMD6"/>
+<edge source="PSMA6" target="PSME2"/>
+<edge source="PSMA6" target="PSME1"/>
+<edge source="PSMA6" target="PSMD13"/>
+<edge source="PSMA6" target="PSMD8"/>
+<edge source="PSMA6" target="PSMD3"/>
+<edge source="PSMA6" target="PSMC3"/>
+<edge source="PSMA6" target="PSMB4"/>
+<edge source="PSMA6" target="PSMA6"/>
+<edge source="PSMA6" target="PSMA4"/>
+<edge source="PSMA6" target="PSMA5"/>
+<edge source="CDC42" target="CDC42"/>
+<edge source="CDC42" target="BIRC2"/>
+<edge source="CDC42" target="RAB11B"/>
+<edge source="CDC42" target="ARHGDIB"/>
+<edge source="BIRC2" target="TLR3"/>
+<edge source="BIRC2" target="ILF2"/>
+<edge source="BIRC2" target="BIRC3"/>
+<edge source="BIRC2" target="BIRC2"/>
+<edge source="CCL11" target="CCL11"/>
+<edge source="TLR3" target="BIRC3"/>
+<edge source="TLR3" target="TLR3"/>
+<edge source="BIRC3" target="BIRC3"/>
+<edge source="ILF2" target="ILF2"/>
+<edge source="ILF2" target="EIF4A1"/>
+<edge source="EIF4A1" target="EIF3B"/>
+<edge source="PPIB" target="PSMA4"/>
+<edge source="PPIB" target="EIF6"/>
+<edge source="PSMA4" target="PSME4"/>
+<edge source="PSMA4" target="PSMD6"/>
+<edge source="PSMA4" target="RAN"/>
+<edge source="PSMA4" target="PSME2"/>
+<edge source="PSMA4" target="PSME1"/>
+<edge source="PSMA4" target="PSMD13"/>
+<edge source="PSMA4" target="PSMD8"/>
+<edge source="PSMA4" target="PSMD3"/>
+<edge source="PSMA4" target="PSMC3"/>
+<edge source="PSMA4" target="PSMB4"/>
+<edge source="PSMA4" target="PSMA5"/>
+<edge source="PSMA4" target="PSMA4"/>
+<edge source="EIF6" target="EIF6"/>
+<edge source="EIF6" target="RAN"/>
+<edge source="EIF6" target="EIF3B"/>
+<edge source="CDKN1A" target="CCT7"/>
+<edge source="CDKN1A" target="PRPF8"/>
+<edge source="CDKN1A" target="COPS6"/>
+<edge source="CDKN1A" target="GADD45A"/>
+<edge source="RANBP1" target="KPNB1"/>
+<edge source="RANBP1" target="RAN"/>
+<edge source="YY1" target="YY1"/>
+<edge source="YY1" target="BAX"/>
+<edge source="EIF3B" target="EIF3B"/>
+<edge source="SFPQ" target="SFPQ"/>
+<edge source="SFPQ" target="ALYREF"/>
+<edge source="SFPQ" target="U2AF1"/>
+<edge source="PSMC3" target="PSMD6"/>
+<edge source="PSMC3" target="BAX"/>
+<edge source="PSMC3" target="PSMD13"/>
+<edge source="PSMC3" target="PSMD8"/>
+<edge source="PSMC3" target="PSMD3"/>
+<edge source="PSMC3" target="PSMB4"/>
+<edge source="PSMC3" target="PSMC3"/>
+<edge source="PSMC3" target="PSMA5"/>
+<edge source="GADD45A" target="GADD45A"/>
+<edge source="HSPD1" target="BAX"/>
+<edge source="HSPD1" target="HSP90AB1"/>
+<edge source="HSPD1" target="HSPD1"/>
+<edge source="BAX" target="BAX"/>
+<edge source="CCT7" target="CCT5"/>
+<edge source="CCT7" target="CCT3"/>
+<edge source="PRPF8" target="SNRPD3"/>
+<edge source="PRPF8" target="U2AF1"/>
+<edge source="PRPF8" target="PRPF8"/>
+<edge source="COPS6" target="COPS6"/>
+<edge source="KPNB1" target="NUTF2"/>
+<edge source="KPNB1" target="NUP88"/>
+<edge source="KPNB1" target="KPNB1"/>
+<edge source="KPNB1" target="RAN"/>
+<edge source="RAN" target="NUTF2"/>
+<edge source="RAN" target="HDGF"/>
+<edge source="RAN" target="RAN"/>
+<edge source="LYN" target="LYN"/>
+<edge source="DNAJC7" target="CCT3"/>
+<edge source="DNAJC7" target="HSP90AB1"/>
+<edge source="HSPH1" target="HSPH1"/>
+<edge source="HSPH1" target="HSP90AB1"/>
+<edge source="ALYREF" target="SRSF1"/>
+<edge source="ALYREF" target="ALYREF"/>
+<edge source="U2AF1" target="SRSF1"/>
+<edge source="RAB11B" target="NUTF2"/>
+<edge source="NUTF2" target="NUTF2"/>
+<edge source="SRSF1" target="SRSF1"/>
+<edge source="SRSF1" target="HDGF"/>
+<edge source="SRSF1" target="SRSF9"/>
+<edge source="HDGF" target="HDGF"/>
+<edge source="CCT3" target="CCT3"/>
+<edge source="CCT3" target="PSMA5"/>
+<edge source="CCT3" target="CCT5"/>
+<edge source="PSMA5" target="PSME4"/>
+<edge source="PSMA5" target="CLIC1"/>
+<edge source="PSMA5" target="PSMD6"/>
+<edge source="PSMA5" target="PSME2"/>
+<edge source="PSMA5" target="PSMD13"/>
+<edge source="PSMA5" target="PSMD8"/>
+<edge source="PSMA5" target="PSMD3"/>
+<edge source="PSMA5" target="PSMB4"/>
+<edge source="SRF" target="SRF"/>
+<edge source="TAF9" target="TAF9"/>
+<edge source="PSMD8" target="PSMD6"/>
+<edge source="PSMD8" target="PSMD13"/>
+<edge source="PSMD8" target="PSMD3"/>
+<edge source="PSMD8" target="PSMB4"/>
+<edge source="PSME1" target="PSMD6"/>
+<edge source="PSME1" target="PSME2"/>
+<edge source="PSME1" target="PSMB4"/>
+<edge source="PSME1" target="PSME1"/>
+<edge source="PSME1" target="PSMB10"/>
+<edge source="PSMB4" target="PSME4"/>
+<edge source="PSMB4" target="PSMD6"/>
+<edge source="PSMB4" target="PSME2"/>
+<edge source="PSMB4" target="PSMD13"/>
+<edge source="PSMB4" target="PSMD3"/>
+<edge source="PSMB4" target="PSMB10"/>
+<edge source="PSMD3" target="PSME4"/>
+<edge source="PSMD3" target="PSMD6"/>
+<edge source="PSMD3" target="PSMD13"/>
+<edge source="PSME2" target="PSMD6"/>
+<edge source="PSME2" target="PSMB10"/>
+<edge source="PSME2" target="PSME2"/>
+<edge source="HSP90AB1" target="HSP90AB1"/>
+<edge source="CLIC1" target="CLIC1"/>
+<edge source="SIGMAR1" target="SIGMAR1"/>
+<edge source="PSMD6" target="PSMD13"/>
+<edge source="PSMD6" target="PSMB10"/>
+<edge source="IL4R" target="IL4R"/>
+<edge source="ARHGAP4" target="ARHGAP4"/>
+<edge source="ALB" target="ALB"/>
+<edge source="ODC1" target="ODC1"/>
+</graph></graphml>
