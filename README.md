@@ -1,1 +1,4 @@
-# Bioinformatics-Project-2
+# Bioinformatics-Network-Medicine
+
+
+This a project on Network Medicine on data collection and analysis
