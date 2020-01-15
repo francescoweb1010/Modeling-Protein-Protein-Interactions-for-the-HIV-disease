@@ -4,7 +4,7 @@
 
 ### Francesco Russo, Iason Tsardanidis, Michele Cernigliaro
 
-This a project for Bioinformatic course of Data Science @LaSapienza. We worked on Network Medicine performing exploring of information sources, Data Analysis, Enrichment Analysis, Clustering Methods, Network theory and measures.
+This a project for Bioinformatic course of Data Science @LaSapienza. We worked on Network Medicine performing exploration of information sources, followed by Data Analysis, Enrichment Analysis, Clustering Methods, Network theory and measures.
 
 ### Abstract
 
@@ -14,7 +14,11 @@ The protein-protein interaction network of an organism is a model for the functi
 
 We worked in python, and the work is splitted into 5 jupyter notebooks. The content of this repo is the following.
 
+#### Jupyter notebooks:
+
   - bio_project2_part_1.ipynb
   - bio_project2_part_2.1.ipynb
   - bio_project2_part_2.2.ipynb
-  - bio_project2_part_2.1.ipynb
+  - bio_project2_part_2.3.ipynb
+  - bio_project2_part_2.4.ipynb
+  
