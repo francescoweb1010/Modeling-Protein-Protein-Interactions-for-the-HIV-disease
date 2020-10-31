@@ -1,8 +1,4 @@
-# Bioinformatics-Network-Medicine
-
-## Modeling PPIs for the HIV disease: computational insights and graph-based investigation methods
-
-### Francesco Russo, Iason Tsardanidis, Michele Cernigliaro
+# Modeling Complex Biological Networks: Protein-Protein Interactions for the HIV disease
 
 This a project for Bioinformatic course of Data Science @LaSapienza. We worked on Network Medicine performing exploration of information sources, followed by Data Analysis, Enrichment Analysis, Clustering Methods, Network theory and measures.
 
