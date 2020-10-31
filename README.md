@@ -1,7 +1,7 @@
 <center>
-  <h2> Modeling Complex Biological Networks: Protein-Protein Interactions for the HIV disease</h2>
+  <h2 style="color:green"> Modeling Complex Biological Networks: Protein-Protein Interactions for the HIV disease</h2>
 
-This is a project for the Bioinformatics course of the MSc in Data Science @Sapienza. We worked on a performing exploration of information sources, followed by Data Analysis, Enrichment Analysis, Clustering Methods, Network Theory methods.
+This is a project for the Bioinformatics course of the MSc in Data Science @Sapienza. We worked on the analysis of the protein-protein interaction network for the HIV disease, performing data exploration and enrichment analysis, and then using clustering methods and network theory methods.
 
 <h3> Description</h3>
 
