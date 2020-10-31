@@ -1,14 +1,15 @@
-# Modeling Complex Biological Networks: Protein-Protein Interactions for the HIV disease
+<center>
+  <h2> Modeling Complex Biological Networks: Protein-Protein Interactions for the HIV disease</h2>
 
-This a project for Bioinformatic course of Data Science @LaSapienza. We worked on Network Medicine performing exploration of information sources, followed by Data Analysis, Enrichment Analysis, Clustering Methods, Network theory and measures.
+This is a project for the Bioinformatics course of the MSc in Data Science @Sapienza. We worked on a performing exploration of information sources, followed by Data Analysis, Enrichment Analysis, Clustering Methods, Network Theory methods.
 
-### Abstract
+<h3> Description</h3>
 
 The protein-protein interaction network of an organism is a model for the functions of genes and proteins. It allows to study the cellular behaviour and its reaction to physical, chemical and (more generally) environmental stimuli, as well as the exchange of signals. The aim of this work is to effectively map the PPIs associated to the HIV disease, in order to identify the seed genes, the proteins involved and, ultimately, the putative disease genes and modules, together with the related relevant properties. This will be done using a computational approach based on the application of graph-theory, clustering procedures and other algorithmic detection methods.
 
-### Content of this repo
+<h3>Content</h3>
 
-We worked in python, and the work is splitted into 5 jupyter notebooks. The content of this repo is the following.
+We worked in Python, and the work is splitted into 5 Jupyter notebooks. The content of this repo is the following.
 
 #### Jupyter notebooks:
 
@@ -17,4 +18,6 @@ We worked in python, and the work is splitted into 5 jupyter notebooks. The cont
   - bio_project2_part_2.2.ipynb
   - bio_project2_part_2.3.ipynb
   - bio_project2_part_2.4.ipynb
+  
+</center>
   
